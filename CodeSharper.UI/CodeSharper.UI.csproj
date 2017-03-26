@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E73664AE-C794-4849-AEFF-144ECC78456D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodeSharper.UI</RootNamespace>
+    <AssemblyName>CodeSharper.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Analyzer\AnalysisFile.cs" />
+    <Compile Include="Analyzer\AnalysisFileType.cs" />
+    <Compile Include="Analyzer\ApplicationConstants.cs" />
+    <Compile Include="Analyzer\AspNetSourceCheckCondition.cs" />
+    <Compile Include="Analyzer\CheckConditions.cs" />
+    <Compile Include="Analyzer\ControlsBuilderFactory.cs" />
+    <Compile Include="Analyzer\CSharpCheckConditions.cs" />
+    <Compile Include="Analyzer\Engine\AnalyzerFactory.cs" />
+    <Compile Include="Analyzer\Engine\CodeAnalyzerFactory.cs" />
+    <Compile Include="Analyzer\Engine\CSharpCodeAnalyzer.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\BadComparisonCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\CommentedCodeCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\EmptyStringCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\HardcodedTypeCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\IncompleteSummaryCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\InlineHtmlCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\MagicStringCheck.cs" />
+    <Compile Include="Analyzer\Engine\Common\MultiLineCodeCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\ObsoleteCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\RelativePathCheck.cs" />
+    <Compile Include="Analyzer\Engine\Common\SingleLineCodeCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\StringConcatenationCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\UnfinishedTodoCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\ValueComparisonCheck.cs" />
+    <Compile Include="Analyzer\Engine\CSharp\WrongFormatCheck.cs" />
+    <Compile Include="Analyzer\Engine\ICodeAnalyzer.cs" />
+    <Compile Include="Analyzer\Engine\ICommand.cs" />
+    <Compile Include="Analyzer\Engine\JavaScriptCodeAnalyzer.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\BadContentAdditionCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\CommentedCodeCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\DirectElementReferenceCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\LocalizableStringCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\MagicStringCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\NonClosureCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\NonStrictCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\ValueComparisonCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\WrongComparisonCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\WrongMethodCallCheck.cs" />
+    <Compile Include="Analyzer\Engine\JavaScript\WrongPrototypeAlter.cs" />
+    <Compile Include="Analyzer\Engine\Utilities.cs" />
+    <Compile Include="Analyzer\ExceptionHanlder.cs" />
+    <Compile Include="Analyzer\Exclusions.cs" />
+    <Compile Include="Analyzer\ExportHelper.cs" />
+    <Compile Include="Analyzer\FileHelper.cs" />
+    <Compile Include="Analyzer\Engine\Issue.cs" />
+    <Compile Include="Analyzer\FriskerException.cs" />
+    <Compile Include="Analyzer\FriskerExceptionType.cs" />
+    <Compile Include="Analyzer\IControlsBuilder.cs" />
+    <Compile Include="Analyzer\IssuesManager.cs" />
+    <Compile Include="Analyzer\Engine\IssueType.cs" />
+    <Compile Include="Analyzer\JavaScriptCheckCondition.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\BadComparisonSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\CommentedCodeSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\Constants.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\ContainsCodeLikeCharacterSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\ContainsCommentSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\ContainsKeywordSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\EmptyStringSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\HardcodedTypeSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\IncompleteSummaryCommentSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\InlineHtmlSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\MagicNumberSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\MagicStringSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\NextCharacterIsValidSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\ObsoleteContentSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\RelativePathSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\StartsWithAccessSpecifierSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\StringConcatenationSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\SummaryCommentSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\UnfinishedTodoSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\ValueComparisonSpecification.cs" />
+    <Compile Include="Analyzer\Rules\CSharp\WronglyFormattedCodeSpecification.cs" />
+    <Compile Include="Analyzer\Specifications\AndSpecification.cs" />
+    <Compile Include="Analyzer\Specifications\CompositeSpecification.cs" />
+    <Compile Include="Analyzer\Specifications\NotSpecification.cs" />
+    <Compile Include="Analyzer\Specifications\OrSpecification.cs" />
+    <Compile Include="Analyzer\Specifications\Specification.cs" />
+    <Compile Include="Analyzer\UiHelper.cs" />
+    <Compile Include="Controls\ConditionCheckBox.cs" />
+    <Compile Include="Controls\ControlHelper.cs" />
+    <Compile Include="Controls\CSharp\ControlsBuilder.cs" />
+    <Compile Include="CustomControls\NativeInterop.cs" />
+    <Compile Include="CustomControls\NfListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetailsForm.designer.cs">
+      <DependentUpon>DetailsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListViewExtensions\ListViewExtendedStyles.cs" />
+    <Compile Include="ListViewExtensions\ListViewHelper.cs" />
+    <Compile Include="ListViewExtensions\ListViewMessages.cs" />
+    <Compile Include="NativeMethods.cs" />
+    <Compile Include="ListViewColumnSorter.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VsHelper.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetailsForm.resx">
+      <DependentUpon>DetailsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Analyzer\Rules\JavaScript\" />
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

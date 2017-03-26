@@ -1,0 +1,41 @@
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.MainForm.resources
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.Properties.Resources.resources
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.AboutForm.resources
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.DetailsForm.resources
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.exe
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.pdb
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.exe
+E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.pdb
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.exe
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.pdb
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.AboutForm.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.DetailsForm.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.MainForm.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.Properties.Resources.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.csproj.GenerateResource.Cache
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.exe
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.pdb
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.csprojResolveAssemblyReference.cache
+E:\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.exe
+E:\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.pdb
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.csprojResolveAssemblyReference.cache
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.AboutForm.resources
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.DetailsForm.resources
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.MainForm.resources
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.Properties.Resources.resources
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.csproj.GenerateResource.Cache
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.exe
+E:\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.exe
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.exe
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeFrisker.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.csprojResolveAssemblyReference.cache
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.AboutForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.DetailsForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.MainForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.Properties.Resources.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeFrisker.UI.csproj.GenerateResource.Cache

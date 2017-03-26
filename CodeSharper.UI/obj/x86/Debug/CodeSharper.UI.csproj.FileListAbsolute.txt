@@ -1,0 +1,31 @@
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeSharper.UI.exe
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\bin\Debug\CodeSharper.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeSharper.UI.AboutForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeSharper.UI.DetailsForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeSharper.UI.MainForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeSharper.UI.Properties.Resources.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeSharper.UI.csproj.GenerateResource.Cache
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeSharper.UI.exe
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeFrisker.UI\obj\x86\Debug\CodeSharper.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.exe
+D:\Aadhi\Projects\Projects\Project-Backup\CodeFrisker\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.exe
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\bin\Debug\CodeSharper.UI.exe
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\bin\Debug\CodeSharper.UI.pdb
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.csprojResolveAssemblyReference.cache
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.AboutForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.DetailsForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.MainForm.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.Properties.Resources.resources
+D:\Aadhi\Projects\Projects\Project-Backup\CodeSharper\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.csproj.GenerateResource.Cache
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.exe
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.pdb
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\bin\Debug\CodeSharper.UI.exe
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\bin\Debug\CodeSharper.UI.pdb
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.csprojResolveAssemblyReference.cache
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.AboutForm.resources
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.DetailsForm.resources
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.MainForm.resources
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.Properties.Resources.resources
+C:\Users\axd\Documents\Visual Studio 2015\Projects\CodeSharper-master\CodeSharper-master\CodeSharper.UI\obj\x86\Debug\CodeSharper.UI.csproj.GenerateResource.Cache

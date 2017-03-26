@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\bin\Debug\CodeFrisker.UnitTests.nunit" total="60" errors="2" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-07-28" time="23:43:23">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.5.10\bin\net-2.0" machine-name="LEN4198" user="Jebahar" user-domain="LEN4198" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\bin\Debug\CodeFrisker.UnitTests.nunit" executed="True" result="Failure" success="False" time="0.437" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\bin\Debug\CodeFrisker.UnitTests.dll" executed="True" result="Failure" success="False" time="0.431" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="CodeFrisker" executed="True" result="Failure" success="False" time="0.430" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="UnitTests" executed="True" result="Failure" success="False" time="0.430" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="CSharp" executed="True" result="Failure" success="False" time="0.430" asserts="0">
+                    <results>
+                      <test-suite type="TestFixture" name="BadComparisonSpecificationTests" executed="True" result="Success" success="True" time="0.213" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.BadComparisonSpecificationTests.BadComparisonNormalConditionFalseTest" executed="True" result="Success" success="True" time="0.067" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.BadComparisonSpecificationTests.BadComparisonNormalConditionNotFalseTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.BadComparisonSpecificationTests.BadComparisonNormalConditionNotTrueTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.BadComparisonSpecificationTests.BadComparisonNormalConditionTernaryFalseTrueTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.BadComparisonSpecificationTests.BadComparisonNormalConditionTernaryTrueFalseTest" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.BadComparisonSpecificationTests.BadComparisonNormalConditionTrueTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="CommentedCodepecificationTests" executed="True" result="Success" success="True" time="0.024" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeGenuineComment" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeMultiLineEnd" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeMultiLineStart" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeStraightForward" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeSuspect01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeSuspect02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeSuspect03" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeSuspect04" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeSuspect05" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.CommentedCodepecificationTests.CommentedCodeSuspect06" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="ContainsCodeLikeCharactersSpecificationTests" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ContainsCodeLikeCharactersSpecificationTests.ContainsCodeLikeCharsTestNormal01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ContainsCodeLikeCharactersSpecificationTests.ContainsCodeLikeCharsTestNormal02" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="ContainsKeywordSpecificationTests" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ContainsKeywordSpecificationTests.ContainsKeywordTestWithExcludedAndIncludedKeywords" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ContainsKeywordSpecificationTests.ContainsKeywordTestWithExcludedKeyword" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ContainsKeywordSpecificationTests.ContainsKeywordTestWithKeywordAtBeginning" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ContainsKeywordSpecificationTests.ContainsKeywordTestWithKeywordAtEnd" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ContainsKeywordSpecificationTests.ContainsKeywordTestWithKeywordAtMiddle" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="EmptyStringSpecificationTests" executed="True" result="Success" success="True" time="0.016" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.EmptyStringSpecificationTests.EmptyStringSpecificationLogicalCheck01" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.EmptyStringSpecificationTests.EmptyStringSpecificationLogicalCheck02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.EmptyStringSpecificationTests.EmptyStringSpecificationLogicalCheck03" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.EmptyStringSpecificationTests.EmptyStringSpecificationLogicalCheck04" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.EmptyStringSpecificationTests.EmptyStringSpecificationTestNormal" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="HardcodedTypeSpecificationTests" executed="True" result="Success" success="True" time="0.002" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.HardcodedTypeSpecificationTests.HardcodedTypeTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="IncompleteSummaryCommentSpecificationTests" executed="True" result="Success" success="True" time="0.006" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.IncompleteSummaryCommentSpecificationTests.IncompleteSummaryCommentTestNormal" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.IncompleteSummaryCommentSpecificationTests.IncompleteSummaryCommentTestValidContent" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="InlineHtmlSpecificationTests" executed="True" result="Success" success="True" time="0.011" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.InlineHtmlSpecificationTests.InlineHtmlTestExclusion01" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.InlineHtmlSpecificationTests.InlineHtmlTestExclusion02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.InlineHtmlSpecificationTests.InlineHtmlTestExclusion03" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.InlineHtmlSpecificationTests.InlineHtmlTestNormal" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="MagicNumberSpecificationTests" executed="True" result="Success" success="True" time="0.013" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicNumberSpecificationTests.MagicNumberTestNormal01" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicNumberSpecificationTests.MagicNumberTestNormal02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicNumberSpecificationTests.MagicNumberTestNormal03" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicNumberSpecificationTests.MagicNumberTestNormal04" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicNumberSpecificationTests.MagicNumberTestNormal05" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="MagicStringSpecificationTests" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicStringSpecificationTests.MagicStringTestNormal01" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicStringSpecificationTests.MagicStringTestNormal02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicStringSpecificationTests.MagicStringTestNormal03" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.MagicStringSpecificationTests.MagicStringTestNormal04" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="ObsoleteContentSpecificationTests" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ObsoleteContentSpecificationTests.ObsoleteContentTestNormal01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.ObsoleteContentSpecificationTests.ObsoleteContentTestNormal02" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="RelativePathSpecificationTests" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.RelativePathSpecificationTests.RelativePathTestNormal01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.RelativePathSpecificationTests.RelativePathTestNormal02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="StartsWithAccessSpecifierSpecificationTests" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.StartsWithAccessSpecifierSpecificationTests.StartsWithAccessSpeficierNormal01" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.StartsWithAccessSpecifierSpecificationTests.StartsWithAccessSpeficierNormal02" executed="True" result="Success" success="True" time="0.001" asserts="0" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.StartsWithAccessSpecifierSpecificationTests.StartsWithAccessSpeficierNormal03" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.StartsWithAccessSpecifierSpecificationTests.StartsWithAccessSpeficierNormal04" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="SummaryCommentSpecificationTests" executed="True" result="Success" success="True" time="0.004" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.SummaryCommentSpecificationTests.SummaryCommentTestNormal01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.SummaryCommentSpecificationTests.SummaryCommentTestNormal02" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="UnfinishedTodoSpecificationTests" executed="True" result="Success" success="True" time="0.010" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.UnfinishedTodoSpecificationTests.UnfinishedTodoTestNormal01" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.UnfinishedTodoSpecificationTests.UnfinishedTodoTestNormal02" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.UnfinishedTodoSpecificationTests.UnfinishedTodoTestNormal03" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                          <test-case name="CodeFrisker.UnitTests.CSharp.UnfinishedTodoSpecificationTests.UnfinishedTodoTestNormal04" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite type="TestFixture" name="WronglyFormattedCodeSpecificationTests" executed="True" result="Failure" success="False" time="0.035" asserts="0">
+                        <results>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.WronglyFormattedCodeSpecificationTests.WronglyFormattedCodeTestNormal01" executed="True" result="Error" success="False" time="0.018" asserts="0">
+                            <failure>
+                              <message><![CDATA[System.NotImplementedException : The method or operation is not implemented.]]></message>
+                              <stack-trace><![CDATA[at CodeFrisker.UI.Analyzer.Rules.CSharp.WronglyFormattedCodeSpecification.IsSatisfiedBy(String[] obj) in D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\Analyzer\Rules\CSharp\WronglyFormattedCodeSpecification.cs:line 10
+at CodeFrisker.UnitTests.CSharp.WronglyFormattedCodeSpecificationTests.WronglyFormattedCodeTestNormal01() in D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\CSharp\WronglyFormattedCodeSpecificationTests.cs:line 14
+]]></stack-trace>
+                            </failure>
+                          </test-case>
+                          <test-case name="CodeFrisker.UnitTests.CSharp.WronglyFormattedCodeSpecificationTests.WronglyFormattedCodeTestNormal02" executed="True" result="Error" success="False" time="0.001" asserts="0">
+                            <failure>
+                              <message><![CDATA[System.NotImplementedException : The method or operation is not implemented.]]></message>
+                              <stack-trace><![CDATA[at CodeFrisker.UI.Analyzer.Rules.CSharp.WronglyFormattedCodeSpecification.IsSatisfiedBy(String[] obj) in D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\Analyzer\Rules\CSharp\WronglyFormattedCodeSpecification.cs:line 10
+at CodeFrisker.UnitTests.CSharp.WronglyFormattedCodeSpecificationTests.WronglyFormattedCodeTestNormal02() in D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\CSharp\WronglyFormattedCodeSpecificationTests.cs:line 22
+]]></stack-trace>
+                            </failure>
+                          </test-case>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

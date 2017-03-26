@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1011]E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\bin\Debug\CodeFrisker.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1011]E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\bin\Debug\CodeFrisker.UnitTests.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1011]E:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UnitTests\bin\Debug\CodeFrisker.UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1012]CodeFrisker" Expanded="true" />
+    <Node UniqueName="[0-1013]CodeFrisker.UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1014]CodeFrisker.UnitTests.CSharp" Expanded="true" />
+    <Node UniqueName="[0-1000]CodeFrisker.UnitTests.CSharp.SpecificationsTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,9 @@
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\bin\Release\CodeFrisker.UI.exe
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\bin\Release\CodeFrisker.UI.pdb
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Release\CodeFrisker.UI.AboutForm.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Release\CodeFrisker.UI.DetailsForm.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Release\CodeFrisker.UI.MainForm.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Release\CodeFrisker.UI.Properties.Resources.resources
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Release\CodeFrisker.UI.csproj.GenerateResource.Cache
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Release\CodeFrisker.UI.exe
+D:\Projects\ToolsDev\New Tools\CodeFrisker\CodeFrisker.UI\obj\x86\Release\CodeFrisker.UI.pdb
